@@ -1,0 +1,10 @@
+    {
+        "name": "Nocterra",
+        "element": "Plant",
+        "monsterId": 6,
+        "image": "nocterra.gif",
+        "sound": "nocterra.wav",
+        "description": "Nocterra can spread halucinogenic pollen which can severely disorient travellers",
+        "height": 80,
+        "weight": 100
+    }

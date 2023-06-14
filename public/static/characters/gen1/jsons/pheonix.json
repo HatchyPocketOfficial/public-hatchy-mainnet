@@ -1,0 +1,10 @@
+    {
+       "name": "Pheonix",
+        "element": "Fire",
+        "monsterId": 26,
+        "image": "pheonix.gif",
+        "sound": "pheonix.wav",
+        "description": "When Pheonix shed feathers, they can continue to burn unaided for many years, even underwater",
+        "height": 150,
+        "weight": 45
+    }

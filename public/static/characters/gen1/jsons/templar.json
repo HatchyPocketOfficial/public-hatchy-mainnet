@@ -1,0 +1,10 @@
+    {
+       "name": "Templar",
+        "element": "Light",
+        "monsterId": 39,
+        "image": "templar.gif",
+        "sound": "templar.wav",
+        "description": "Templar wings are incredibly powerful allowing them to dart through the air and stop or take off immediately",
+        "height": 270,
+        "weight": 160
+    }

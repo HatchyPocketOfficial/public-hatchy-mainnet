@@ -1,0 +1,10 @@
+    {
+       "name": "Pegasus",
+        "element": "Light",
+        "monsterId": 38,
+        "image": "pegasus.gif",
+        "sound": "pegasus.wav",
+        "description": "Pegasus gallop through the sky at such a speed and shine so bright, that they are often mistaken for shooting stars",
+        "height": 420,
+        "weight": 600
+    }

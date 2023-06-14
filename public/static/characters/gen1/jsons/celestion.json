@@ -1,0 +1,10 @@
+    {
+        "name": "Celestion",
+        "element": "Void",
+        "monsterId": 40,
+        "image": "celestion.gif",
+        "sound": "celestion.wav",
+        "description": "Celestion rarely appears from the void, their wings emit a strange energy and can evaporate objects that get too close",
+        "height": 300,
+        "weight": 9999
+    }

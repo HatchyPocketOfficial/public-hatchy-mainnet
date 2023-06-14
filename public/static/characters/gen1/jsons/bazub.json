@@ -1,0 +1,10 @@
+    {
+        "name": "Bazub",
+        "element": "Plant",
+        "monsterId": 4,
+        "image": "bazub.gif",
+        "sound": "bazub.wav",
+        "description": "Bazub swarms are deadly and destructive, a swarm can destroy an entire crop in minutes",
+        "height": 30,
+        "weight": 5
+    }

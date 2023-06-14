@@ -1,0 +1,10 @@
+    {
+        "name": "Blazeo",
+        "element": "Fire",
+        "monsterId": 25,
+        "image": "blazeo.gif",
+        "sound": "blazeo.wav",
+        "description": "If threatened, Blazeo fans out its burning tail to shield itself from attacks",
+        "height": 140,
+        "weight": 25
+    }

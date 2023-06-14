@@ -1,0 +1,10 @@
+    {
+        "name": "Florean",
+        "element": "Plant",
+        "monsterId": 8,
+        "image": "florean.gif",
+        "sound": "florean.wav",
+        "description": "Florean vines are extremely durable, they can root themselves to the ground and become immovable",
+        "height": 210,
+        "weight": 90
+    }

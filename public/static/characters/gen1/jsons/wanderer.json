@@ -1,0 +1,10 @@
+    {
+         "name": "Wanderer",
+        "element": "Dark",
+        "monsterId": 32,
+        "image": "wanderer.gif",
+        "sound": "wanderer.wav",
+        "description": "Wanderers are said to be powerful warrior spirits, traveling the world, still searching for a worthy opponent",
+        "height": 180,
+        "weight": 80
+    }

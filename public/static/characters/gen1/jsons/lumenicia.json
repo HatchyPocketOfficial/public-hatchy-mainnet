@@ -1,0 +1,10 @@
+    {
+        "name": "Lumenicia",
+        "element": "Light",
+        "monsterId": 36,
+        "image": "lumenicia.gif",
+        "sound": "lumenicia.wav",
+        "description": "Highly sensitive, Lumenicia are able to communicate with light",
+        "height": 180,
+        "weight": 1
+    }

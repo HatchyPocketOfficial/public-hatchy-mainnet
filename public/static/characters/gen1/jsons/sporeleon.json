@@ -1,0 +1,10 @@
+    {
+         "name": "Sporeleon",
+        "element": "Plant",
+        "monsterId": 3,
+        "image": "sporeleon.gif",
+        "sound": "sporeleon.wav",
+        "description": "Able to traverse up tall trees, Sporeleon are often found perched high in the canopy",
+        "height": 100,
+        "weight": 35
+    }

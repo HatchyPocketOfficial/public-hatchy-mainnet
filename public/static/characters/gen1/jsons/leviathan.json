@@ -1,0 +1,10 @@
+    {
+       "name": "Leviathan",
+        "element": "Water",
+        "monsterId": 12,
+        "image": "leviathan.gif",
+        "sound": "leviathan.wav",
+        "description": "Leviathan usually drift through the deep ocean",
+        "height": 410,
+        "weight": 800
+    }

@@ -1,0 +1,10 @@
+    {
+        "name": "Antarcticus",
+        "element": "Water",
+        "monsterId": 17,
+        "image": "antarcticus.gif",
+        "sound": "antarcticus.wav",
+        "description": "The wings of an Antarcticus emit a cold that can cause saturated clouds to erupt in snow when passed",
+        "height": 100,
+        "weight": 30
+    }

@@ -1,0 +1,10 @@
+    {
+        "name": "Woover",
+        "element": "Water",
+        "monsterId": 18,
+        "image": "woover.gif",
+        "sound": "woover.wav",
+        "description": "Woovers travel in packs and able to chase down prey over extremely long distances",
+        "height": 180,
+        "weight": 60
+    }

@@ -1,0 +1,10 @@
+    {
+        "name": "Lavekans",
+        "element": "Fire",
+        "monsterId": 19,
+        "image": "lavekans.gif",
+        "sound": "lavekans.wav",
+        "description": "Lavekans can be very territorial, and will try to kill any unwelcome intruder by biting it, wrapping around and greatly increasing their body temperature",
+        "height": 520,
+        "weight": 640
+    }

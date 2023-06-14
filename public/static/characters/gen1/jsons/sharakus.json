@@ -1,0 +1,10 @@
+    {
+      "name": "Sharakus",
+        "element": "Water",
+        "monsterId": 10,
+        "image": "sharakus.gif",
+        "sound": "sharakus.wav",
+        "description": "Sharakus are able to generate enough power while swimming to cause waves overhead several hundred metres overhead",
+        "height": 220,
+        "weight": 200
+    }

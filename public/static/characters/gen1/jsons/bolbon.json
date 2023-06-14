@@ -1,0 +1,10 @@
+    {
+        "name": "Bolbon",
+        "element": "Plant",
+        "monsterId": 5,
+        "image": "bolbon.gif",
+        "sound": "bolbon.wav",
+        "description": "Bolbon can sometimes be inactive for so long, that moss, shrubs or even small trees can grow on them",
+        "height": 200,
+        "weight": 2000
+    }

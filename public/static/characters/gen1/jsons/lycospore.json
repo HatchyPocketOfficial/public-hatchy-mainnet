@@ -1,0 +1,10 @@
+    { 
+        "name": "Lycospore",
+        "element": "Plant",
+        "monsterId": 7,
+        "image": "lycospore.gif",
+        "sound": "lycospore.wav",
+        "description": "Each of Lycospores billions of spores is potent enough to immobilise an attacker for upto several hours",
+        "height": 60,
+        "weight": 120
+    }

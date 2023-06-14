@@ -1,0 +1,10 @@
+    {
+         "name": "Gryphon",
+        "element": "Light",
+        "monsterId": 37,
+        "image": "gryphon.gif",
+        "sound": "gryphon.wav",
+        "description": "Gryphon can whip their tail to send a shockwave capable cutting through boulders from upto 20 metres away",
+        "height": 380,
+        "weight": 770
+    }

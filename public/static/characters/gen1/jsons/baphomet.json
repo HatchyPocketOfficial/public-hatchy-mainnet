@@ -1,0 +1,10 @@
+    {
+        "name": "Baphomet",
+        "element": "Dark",
+        "monsterId": 33,
+        "image": "baphomet.gif",
+        "sound": "baphomet.wav",
+        "description": "The Baphomet are highly deceptive shapeshifters that once commited may maintain a disguise for a whole human lifetime",
+        "height": 270,
+        "weight": 160
+    }

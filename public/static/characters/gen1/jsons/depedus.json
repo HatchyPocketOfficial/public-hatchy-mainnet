@@ -1,0 +1,10 @@
+    {
+       "name": "Depedus",
+        "element": "Dark",
+        "monsterId": 29,
+        "image": "depedus.gif",
+        "sound": "depedus.wav",
+        "description": "Though hundreds of metres below ground, Depedus can be so heavy they shake the earth above them causing quakes",
+        "height": 320,
+        "weight": 250
+    }

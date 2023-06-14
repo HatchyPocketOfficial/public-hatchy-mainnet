@@ -1,0 +1,10 @@
+    {
+       "name": "Wraith",
+        "element": "Dark",
+        "monsterId": 31,
+        "image": "wraith.gif",
+        "sound": "wraith.wav",
+        "description": "Wraith claws are harder than diamonds and can easily cut through steel",
+        "height": 150,
+        "weight": 60
+    }

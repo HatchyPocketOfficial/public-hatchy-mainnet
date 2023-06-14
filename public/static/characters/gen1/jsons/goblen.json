@@ -1,0 +1,10 @@
+    {
+        "name": "Goblen",
+        "element": "Dark",
+        "monsterId": 28,
+        "image": "goblen.gif",
+        "sound": "goblen.wav",
+        "description": "Goblens are social and work in groups, they can effectively communicate with eachother over long distances using their flames",
+        "height": 155,
+        "weight": 60
+    }

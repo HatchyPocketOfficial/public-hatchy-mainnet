@@ -1,0 +1,10 @@
+    {
+        "name": "Flamus",
+        "element": "Fire",
+        "monsterId": 27,
+        "image": "flamus.gif",
+        "sound": "flamus.wav",
+        "description": "Flamus can burn hot enough to melt the ground they stand on",
+        "height": 170,
+        "weight": 25
+    }

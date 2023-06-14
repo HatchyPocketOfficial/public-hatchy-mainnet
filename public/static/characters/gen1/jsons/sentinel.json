@@ -1,0 +1,10 @@
+    {
+          "name": "Sentinel",
+        "element": "Light",
+        "monsterId": 34,
+        "image": "sentinel.gif",
+        "sound": "sentinel.wav",
+        "description": "Because they have no desires of their own, a Sentinel can stay alert in guard position indefinitely",
+        "height": 333,
+        "weight": 3333
+    }

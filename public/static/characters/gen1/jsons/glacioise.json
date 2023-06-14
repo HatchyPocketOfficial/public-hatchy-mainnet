@@ -1,0 +1,10 @@
+    {
+        "name": "Glacioise",
+        "element": "Water",
+        "monsterId": 16,
+        "image": "glacioise.gif",
+        "sound": "glacioise.wav",
+        "description": "The icey shards on the back of Glacioise move around so slowly that its often mistaken as a solid",
+        "height": 80,
+        "weight": 250
+    }

@@ -1,0 +1,10 @@
+    {
+        "name": "Koranok",
+        "element": "Plant",
+        "monsterId": 9,
+        "image": "koranok.gif",
+        "sound": "koranok.wav",
+        "description": "Koranok claws are able to burrow through bedrock to nest",
+        "height": 350,
+        "weight": 1400
+    }

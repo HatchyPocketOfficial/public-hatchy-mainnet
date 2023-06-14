@@ -1,0 +1,10 @@
+    {
+        "name": "Mermos",
+        "element": "Water",
+        "monsterId": 15,
+        "image": "mermos.gif",
+        "sound": "mermos.wav",
+        "description": "Despite not having bones, each tentacle on a Mermos is capable of crushing small rocks",
+        "height": 220,
+        "weight": 180
+    }

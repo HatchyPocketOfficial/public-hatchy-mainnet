@@ -1,0 +1,10 @@
+    {
+         "name": "Darthys",
+        "element": "Dark",
+        "monsterId": 30,
+        "image": "darthys.gif",
+        "sound": "darthys.wav",
+        "description": "If something is killed nearby a Darthys, their soul may be sucked into the crystal on their back and trapped forever",
+        "height": 130,
+        "weight": 210
+    }

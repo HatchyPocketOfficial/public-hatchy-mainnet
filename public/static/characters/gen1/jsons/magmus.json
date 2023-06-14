@@ -1,0 +1,10 @@
+    {
+        "name": "Magmus",
+        "element": "Fire",
+        "monsterId": 21,
+        "image": "magmus.gif",
+        "sound": "magmus.wav",
+        "description": "Magmus ooze a trail of lava as they move that can continue burning for several hours",
+        "height": 220,
+        "weight": 550
+    }

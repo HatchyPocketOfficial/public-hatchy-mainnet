@@ -1,0 +1,10 @@
+    {
+        "name": "Naga",
+        "element": "Water",
+        "monsterId": 14,
+        "image": "naga.gif",
+        "sound": "naga.wav",
+        "description": "The Naga have a powerful muscular body allowing them to manoeuvre underwater with ease ",
+        "height": 160,
+        "weight": 60
+    }

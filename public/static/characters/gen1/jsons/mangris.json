@@ -1,0 +1,10 @@
+    {
+       "name": "Mangris",
+        "element": "Plant",
+        "monsterId": 2,
+        "image": "mangris.gif",
+        "sound": "mangris.wav",
+        "description": "Mangris are able to confuse prey with their floral crest to approach near enough to grab them with their deadly pincirs",
+        "height": 60,
+        "weight": 20
+    }

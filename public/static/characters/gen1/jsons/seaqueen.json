@@ -1,0 +1,10 @@
+    {
+        "name": "Seaqueen",
+        "element": "Water",
+        "monsterId": 13,
+        "image": "seaqueen.gif",
+        "sound": "seaqueen.wav",
+        "description": "Seaqueen horns are coated with a powerful toxin that can potentially paralyze a target or attacker for several days",
+        "height": 60,
+        "weight": 40
+    }

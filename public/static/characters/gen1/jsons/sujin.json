@@ -1,0 +1,10 @@
+    {
+       "name": "Sujin",
+        "element": "Water",
+        "monsterId": 11,
+        "image": "sujin.gif",
+        "sound": "sujin.wav",
+        "description": "Sujin are mischevious tricksters that are able to shape their watery bodies at will to mimic anything they have already seen",
+        "height": 180,
+        "weight": 1
+    }

@@ -1,0 +1,10 @@
+{
+        "name": "Solarion",
+        "element": "Plant",
+        "monsterId": 1,
+        "image": "solarion.gif",
+        "sound": "solarion.wav",
+        "description": "Self sufficient and able to produce their own light, Solarion often live in solidarity",
+        "height": 180,
+        "weight": 450
+}

@@ -1,0 +1,10 @@
+    {
+        "name": "Elkar",
+        "element": "Light",
+        "monsterId": 35,
+        "image": "elkar.gif",
+        "sound": "elkar.wav",
+        "description": "The glowing golden antlers of the Elkar are so dense they can charge through diamond boulders",
+        "height": 150,
+        "weight": 60
+    }

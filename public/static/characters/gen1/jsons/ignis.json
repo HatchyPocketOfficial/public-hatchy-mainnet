@@ -1,0 +1,10 @@
+    {
+        "name": "Ignis",
+        "element": "Fire",
+        "monsterId": 24,
+        "image": "ignis.gif",
+        "sound": "ignis.wav",
+        "description": "When harmed Ignis emit a strong odour that alerts its hive of attackers",
+        "height": 60,
+        "weight": 10
+    }

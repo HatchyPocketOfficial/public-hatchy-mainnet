@@ -1,0 +1,10 @@
+    {
+        "name": "Firadactus",
+        "element": "Fire",
+        "monsterId": 23,
+        "image": "firadactus.gif",
+        "sound": "firadactus.wav",
+        "description": "Firadactus use hot air under their wings to aid their flight, allowing them to soar for many days without needing to rest",
+        "height": 230,
+        "weight": 250
+    }

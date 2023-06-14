@@ -1,0 +1,10 @@
+    {
+        "name": "Calidus",
+        "element": "Fire",
+        "monsterId": 20,
+        "image": "calidus.gif",
+        "sound": "calidus.wav",
+        "description": "When Calidus sense a threat they can start to burn hot enough to emit waves capable of burning steel from several metres away",
+        "height": 250,
+        "weight": 4500
+    }

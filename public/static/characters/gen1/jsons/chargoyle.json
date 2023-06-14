@@ -1,0 +1,10 @@
+    {
+        "name": "Chargoyle",
+        "element": "Fire",
+        "monsterId": 22,
+        "image": "chargoyle.gif",
+        "sound": "chargoyle.wav",
+        "description": "Chargoyles usually nest in groups and are easily startled, often erupting their manes simultaneously at any perceived threat",
+        "height": 160,
+        "weight": 80
+    }
